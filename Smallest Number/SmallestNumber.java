@@ -3,6 +3,7 @@ import java.util.*;
 public class SmallestNumber{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
+        //striver
         System.out.println("Enter Number:");
         int n = sc.nextInt();
         String ans = "";
