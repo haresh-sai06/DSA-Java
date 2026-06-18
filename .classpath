@@ -6,5 +6,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="Majority Element"/>
 	<classpathentry kind="src" path="Rotate Matrix by 90 Degree"/>
+	<classpathentry kind="src" path="Spiral Matrix"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
