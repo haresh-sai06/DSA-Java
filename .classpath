@@ -9,5 +9,6 @@
 	<classpathentry kind="src" path="Spiral Matrix"/>
 	<classpathentry kind="src" path="First and Last Index"/>
 	<classpathentry kind="src" path="Search in Sorted and Rotated Array"/>
+	<classpathentry kind="src" path="Duplicate"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
